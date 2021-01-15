@@ -1,0 +1,43 @@
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+td {
+    padding: 25px;
+    border: 1px solid black;
+}
+
+
+.str1,
+.str2,
+.str3,
+.str4,
+.str5,
+.str6 {
+    background-color: aqua;
+}
+
+.col1,
+.col2,
+.col3,
+.col4,
+.col5,
+.col6 {
+    background-color: lightgoldenrodyellow;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
